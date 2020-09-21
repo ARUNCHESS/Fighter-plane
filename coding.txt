@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.shooter.Fighter Plane+"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Fighter Plane</name>
+
+  <description>
+      its a shooter game use cursor to move the plane press the space bar or click to shoot the enemy plane collect power ups to upgrade your guns and hearts,coins bag etc
+  </description>
+
+  <author href="" email="">
+      arun
+  </author>
+
+<icon src="icon.png">
+
+</widget>
